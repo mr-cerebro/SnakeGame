@@ -8,11 +8,9 @@ Projeto feito para o bootcamp **HTML Web Developer** para a plataforma de ensino
 
 ##### Tecnologias em uso :man_technologist:
 
-[x] HMTL5
-
-[x] CSS3
-
-[x] JAVASCRIPT
+- [x] HMTL5
+- [x] CSS3
+- [x] JAVASCRIPT
 
 ###### Dificuldades :sob:
 
