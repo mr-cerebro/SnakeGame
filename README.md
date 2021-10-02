@@ -12,7 +12,7 @@ Projeto feito para o bootcamp **HTML Web Developer** para a plataforma de ensino
 - [x] CSS3
 - [x] JAVASCRIPT
 
-###### Dificuldades :sob:
+##### Dificuldades :sob:
 
 Desenhar o canvas com o **JavaScript** porque primeiro estava empregar mal a chamada do _Script_ no documento _HTML_, então isso fez-com que o canvas não aparecia mostrando o erro Uncaught TypeError: Cannot read property 'getContext' of null, e, o mesmo aconteceu com a função para remover o último elemento da lista com a instrução ``snake.pop()`` que retornava o erro dizendo que ``pop() is not function`` 
 
