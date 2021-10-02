@@ -9,3 +9,7 @@ body {
     color: rgb(52, 165, 52);
     font-family: 'Poppins', sans-serif;
 }
+
+#snake {
+    border: 10px solid lightgreen;
+}
