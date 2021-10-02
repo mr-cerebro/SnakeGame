@@ -24,3 +24,4 @@ Com esse projeto aprendi que podemos fazer as coisas do impossível tornarem-se 
 
 > Foram exatamente 02 dias, cada dia 03h de tempo, com a companinha de :coffee: e :headphones:
 
+[Clique aqui para jogar](https://mr-cerebro.github.io/SnakeGame/)
